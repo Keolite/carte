@@ -1,5 +1,6 @@
 # carte
-Utilisation du plugin *leafleft* et de *mapquest* pour créer une carte contenant plusieurs marqueurs et la possibilité de cliquer sur un marqueur et afficher l'itineraire entre votre position et le marqueur qui a été cliqué.
+Utilisation du plugin *leafleft* et de *mapquest* pour créer une carte contenant plusieurs marqueurs.  
+Possibilité de cliquer sur un marqueur et afficher l'itinéraire entre votre position et le marqueur qui a été cliqué.
 
 # Prérequis
 **Npm** doit être installé.  
